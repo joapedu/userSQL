@@ -1,0 +1,1 @@
+-- Consulta que retorne o valor total dos pedidos agrupados por nome de vendedor
